@@ -5,8 +5,11 @@ Scope:
 The scope of this project is to prevent houses from danger & alert the user with the notification to inform them
 
 Functional Requirements
+
 The sysytem shall allow users to login with username & password
+
 System shall continoulsy monitor windows & door
+
 System shall detect gas leakage
 System shall detect smoke using sensors
 System shall trigger alarm if unauthorized access has been identified
